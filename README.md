@@ -2,7 +2,7 @@
 
 Created 1 `Deneb` custom visual- 𝐑𝐢𝐧𝐠 𝐂𝐡𝐚𝐫𝐭 using `Power BI` to visualise percentage marriages by month for each State in Australia.
 
-The chart shows the number marriages by month and Australian State encoded by size as rings, and (given that each state has a different total population) marriages by month proportional to the State encoded as a gradient background.
+The chart shows the 𝐧𝐮𝐦𝐛𝐞𝐫 𝐦𝐚𝐫𝐫𝐢𝐚𝐠𝐞𝐬 𝐛𝐲 𝐦𝐨𝐧𝐭𝐡 𝐚𝐧𝐝 𝐀𝐮𝐬𝐭𝐫𝐚𝐥𝐢𝐚𝐧 𝐒𝐭𝐚𝐭𝐞 𝐞𝐧𝐜𝐨𝐝𝐞𝐝 𝐛𝐲 𝐬𝐢𝐳𝐞 𝐚𝐬 𝐫𝐢𝐧𝐠𝐬, and (given that each state has a different total population) marriages by month proportional to the State encoded as a gradient background.
 
 `Deneb` is a certified 𝐜𝐮𝐬𝐭𝐨𝐦 𝐯𝐢𝐬𝐮𝐚𝐥 for `Microsoft Power BI`, which allows developers to use the declarative JSON syntax of the Vega or Vega-Lite languages to create their own data visualizations.
 
